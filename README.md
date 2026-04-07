@@ -68,7 +68,7 @@ A Streamlit web app that uses deep learning models to classify medical images su
 
 - **COVID-19 X-rays**
 - **Kidney Disease**
-- **Lung Cancer**
+- **Lung  Cancer**
 
 🔗 **Live Demo:** [medical-image-classifier.streamlit.app](https://medical-image-classifier.streamlit.app)
 
