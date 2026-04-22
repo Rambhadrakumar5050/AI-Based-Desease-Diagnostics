@@ -58,7 +58,7 @@ Each model uses the Hugging Face `transformers` library for loading pre-trained 
 
 ### Prerequisites
 - **Python**: Version 3.8–3.11
-- **Operating System**: Windows, macOS, or Linux
+- **Operating System**: Windows, macOS  or Linux
 - **Hardware**: CPU (GPU optional with CUDA support for faster inference)
 - **Model Weights**: Pre-trained `.pth` files for each model (see [Model Weights](#model-weights))
 
