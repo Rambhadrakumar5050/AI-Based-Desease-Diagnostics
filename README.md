@@ -15,13 +15,13 @@ This project aims to assist medical professionals and researchers by providing a
 - **Modern UI**: Clean, responsive interface with a collapsible sidebar and custom styling.
 - **Model Metrics**: Displays accuracy and F1-score for each model.
 - **Error Handling**: Robust validation and logging for images, weights, and processing.
-- **Downloadable Results**: Save Grad-CAM visualizations as PNG files.
+- **Downloadable Results**: Save Grad-CAMd- visualizations as PNG files.
 
 ## Models
 The application includes three pre-trained models, each tailored to a specific medical condition. All models are based on EfficientNet architectures, fine-tuned for medical image classification.
 
 ### 1. Lung Cancer Model
-- **Architecture**: EfficientNet-B1
+- **Architecture**EfficientNet-B1B1
 - **Classes**: Benign, Malignant, Normal
 - **Number of Classes**: 3
 - **Metrics**:
